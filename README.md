@@ -1,5 +1,5 @@
 
-[![YT](https://i.ytimg.com/vi/obxkax9bsPQI/maxresdefault.jpg)](https://www.youtube.com/watch?v=obxkax9bsPQ)
+[![YT](https://i.ytimg.com/vi/obxkax9bsPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=obxkax9bsPQ)
 [https://www.youtube.com/watch?v=obxkax9bsPQ]()
 
 Neste vídeo, vou te mostrar como criar um algoritmo simples em Python para raspar as probabilidades (odds) das partidas do Brasileirão diretamente do site f12.bet. Se você está interessado em fazer apostas de arbitragem e deseja obter uma vantagem competitiva, este é o lugar certo para você.
